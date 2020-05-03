@@ -1,0 +1,171 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+\n
+
+== Peer Reviewed Journal Publications
+
+~~
+\[J10\] *Decentralized Formation Control for Multiple Quadrotors with Guaranteed Collision avoidance* \n
+2019, (under preparation)
+
+\[J9\] *Signal Temporal Logic under Prescribed Performance Nonlinear Model Predictive Control* \n
+Shahb Heshmati-alamdari, Alexandros Nikou, Lars Lindemann, Dimos V. Dimarogonas \n
+2019, (under preparation)
+
+\[J8\] *Scalable Time-constrained Planning of Multi-robot Systems* \n
+Alexandros Nikou, Shahab Hehmati-alamdari, Dimos V. Dimarogonas \n
+*Autonomous Robots*, 2019, (under review)
+
+\[J7\] *A Robust Nonlinear MPC Framework for Control of Underwater Vehicle Manipulator \n 
+Systems under High-Level Tasks* \n
+Alexandros Nikou, Christos K. Verginis, Dimos V. Dimarogonas \n
+IET Control Theory and Applications, 2019, (under review)
+
+\[J6\] *Robust Trajectory Tracking Control for Underctuated Autonomous Underwater Vehicles \n
+in Uncertain Environments* \n
+Shahab Heshmati-alamdari, Alexandros Nikou and Dimos V. Dimarogonas \n
+IEEE Transactions on Automation Science and Engineering (*TASE*), 2019, (to appear)
+
+\[J5\] *[IJRNC_2018.pdf Decentralized Tube-Based Robust Model Predictive Control for Uncertain \n 
+Nonlinear Multi-Agent Systems]* \n
+Alexandros Nikou, Dimos V. Dimarogonas \n
+International Journal of Robust and Nonlinear Control (*IJRNC*), vol. 29, pp.2799-2818, July 2019,
+
+\[J4\] *[https://arxiv.org/pdf/1803.07513.pdf Robust Formation Control in SE(3) for Tree-Graph Structures with Prescribed Transient \n
+and Steady State Performance]* \n
+Christos K. Verginis, Alexandros Nikou, Dimos V. Dimarogonas \n
+*Automatica*, vol. 103, pp. 538-548, 2019 
+
+\[J3\] *[journal_annual_review_2018.pdf A Robust Interaction Control Approach for Underwater Vehicle Manipulator Systems]* \n
+Shahab Heshmati-alamdari, Charalampos P. Bechlioulis, George C. Karras, Alexandros Nikou, \n
+Dimos V. Dimarogonas, Kostas J. Kyriakopoulos \n
+*Annual Reviews in Control*, Vol 46, p. 315-325, 2018
+
+\[J2\] *[automatica_2017.pdf On the Timed Temporal Logic Planning of Coupled Multi-Agent Systems]* \n
+Alexandros Nikou, Dimitris Boskos, Jana Tumova, Dimos V. Dimarogonas \n 
+*Automatica*, Vol 97, p. 339-345, 2018
+
+\[J1\] *[ijc_2018.pdf Robust Decentralized Navigation of Multi-Agent Systems with Collision Avoidance \n 
+and Connectivity Maintenance Using Model Predictive Controllers]* \n 
+Alexandros Filotheou, Alexandros Nikou, Dimos V. Dimarogonas \n
+International Journal of Control (*IJC*), vol. 21, pp. 1-15, August 2018
+~~
+
+== Peer Reviewed Conference Publications 
+~~
+\[C19\] *Deep Learning-based Nonlinear MPC for Robot Navigation with Guaranteed Performance* \n
+(under review)
+
+\[C18\] *On the Time Constrained Reachability of Uncertain Nonlinear Systems* \n
+(under review)
+
+\[C17\] *Decentralized Formation Control for Multiple Quadrotors under \n Unidirectional Communication Constraints* \n
+Pedro Roque and Shahab Heshmati-alamdari, Alexandros Nikou, Dimos V. Dimarogonas \n
+21st World Congress of the International Federation of Automatic Control (*IFAC WC*), \n 
+Berlin, German, July 2020 (to appear)
+
+\[C16\] *[https://arxiv.org/pdf/1908.10175.pdf Robust Trajectory Tracking Control for Underactuated
+Autonomous Underwater Vehicles]* \n
+Shahab Heshmati-alamdari, Alexandros Nikou, Dimos V. Dimarogonas \n
+58th IEEE Conference on Decision and Control (*CDC*), Nice, France, December 2019
+
+\[C15\] *[CASE_2019.pdf Design and Experimental Validation of Tube-based MPC for
+Timed-constrained \n
+Robot Planning]* \n
+Alexandros Nikou, Shahab Heshmati-alamdari, Dimos V. Dimarogonas \n
+IEEE International Conference on Automation Science and Engineering (*CASE*), \n
+Vancouver, Canada, August 2019
+
+\[C14\] *[acc_2019.pdf Robust Tube-based Model Predictive Control for Timed Constrained Robot Navigation]* \n
+Alexandros Nikou, Dimos V. Dimarogonas \n
+American Control Conference (*ACC*), Philadelphia, USA, June, 2019
+
+\[C13\] *[auv_2018.pdf A Tube-based Nonlinear MPC Scheme for Interaction Control of Underwater Vehicle \n
+Manipulator Systems]* \n
+Alexandros Nikou, Christos K. Verginis, Dimos V. Dimarogonas \n
+IEEE OES Autonomous Underwater Vehicle Symposium (*AUVS*), Porto, Portugal, November, 2018
+
+\[C12\] *[https://arxiv.org/pdf/1803.07940.pdf Communication-based Decentralized Cooperative Object Transportation Using \n 
+Nonlinear Model Predictive Control]* \n
+Christos K. Verginis, Alexandros Nikou, Dimos V. Dimarogonas \n
+European Control Conference (*ECC*), Limassol, Cyprus, June 2018
+
+\[C11\] [ECC_2018.pdf *Decentralized Control of Uncertain Multi-Agent Systems with Connectivity \n
+Maintenance and Collision Avoidance*] \n
+Alexandros Filotheou, Alexandros Nikou, Dimos V. Dimarogonas \n
+European Control Conference (*ECC*), Limassol, Cyprus, June 2018
+
+\[C10\] [CDC_2017_timed_abstractions.pdf *Decentralized Abstractions and Timed Constrained Planning of a General Class of \n 
+Coupled Multi-Agent Systems*] \n
+Alexandros Nikou, Shahab Heshmati-alamdari, Christos K. Verginis, Dimos V. Dimarogonas \n
+56th IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, December 2017
+
+\[C9\] [cdc_2017_formation.pdf *Position and Orientation Based Formation Control of Multiple Rigid Bodies with \n 
+Collision Avoidance and Connectivity Maintenance* ] \n
+Christos K. Verginis, Alexandros Nikou, Dimos V. Dimarogonas \n 
+56th IEEE Conference on Decision and Control (*CDC*), Melbourne, Australia, December 2017
+
+\[C8\] [ifac_2017_formation.pdf *Robust Distance-Based Formation Control of Multiple Rigid Bodies \n 
+with Orientation Alignment *] \n
+Alexandros Nikou, Christos K. Verginis, Dimos V. Dimarogonas \n
+20th World Congress of the International Federation of Automatic Control (*IFAC WC*), \n 
+Toulouse, France, July 2017
+
+\[C7\] [ifac_2017_shahab.pdf *A Robust Control Approach for Underwater Vehicle Manipulator Systems in \n 
+Interaction with Compliant Environments*] \n
+Shahab Heshmati-alamdari, Alexandros Nikou, Kostas J. Kyriakopoulos, Dimos V. Dimarogonas \n
+20th World Congress of the International Federation of Automatic Control (*IFAC WC*), \n 
+Toulouse, France, July 2017
+
+\[C6\] [ifac_2017_sofie.pdf *Control Synthesis for Multi-Agent Systems under Metric Interval \n 
+Temporal Logic Specifications*] \n
+Sofie Andersson, Alexandros Nikou, Dimos V. Dimarogonas \n
+20th World Congress of the International Federation of Automatic Control (*IFAC WC*), \n 
+Toulouse, France, July 2017
+
+\[C5\] [ifac_prob.pdf *Probabilistic Plan Synthesis for Coupled Multi-Agent Systems*] \n
+Alexandros Nikou, Jana Tumova, Dimos V. Dimarogonas \n 
+20th World Congress of the International Federation of Automatic Control (*IFAC WC*), \n 
+Toulouse, France, July 2017
+
+\[C4\] [med_2017.pdf *A Nonlinear Model Predictive Control Scheme for Cooperative Manipulation with \n 
+Singularity and Collision Avoidance* ] \n
+Alexandros Nikou, Christos K. Verginis, Shahab Heshmati-alamdari, Dimos V. Dimarogonas \n 
+25th IEEE Mediterranean Conference on Control and Automation (*MED*), Valletta, Malta, June 2017
+
+\[C3\] [acc_2017.pdf *Cooperative Planning Synthesis for Coupled Multi-Agent Systems Under \n 
+Timed Temporal Specifications*] \n
+Alexandros Nikou, Dimitris Boskos, Jana Tumova, Dimos V. Dimarogonas \n 
+American Control Conference (*ACC*), Seattle, USA, May 2017
+
+\[C2\] [acc_2016.pdf *Cooperative Task Planning Synthesis for Multi-Agent Systems Under \n 
+Timed Temporal Specifications*] \n
+Alexandros Nikou, Jana Tumova, Dimos V. Dimarogonas \n
+American Control Conference (*ACC*), Boston, USA, July 2016
+
+\[C1\] [icra_2015.pdf *Mechanical Design, Modelling and Control of a Novel Aerial Manipulator*] \n
+Alexandros Nikou, Georgios Gavridis, Kostas J. Kyriakopoulos \n 
+IEEE International Conference on Robotics and Automation (*ICRA*), p.4698-4703, Seattle, \n 
+USA, May 2015
+~~
+
+== Theses Publications
+
+~~
+\[T4]\ [phd_Thesis.pdf *Robust and Decentralized Control of Multi-agent Systems under High-level Tasks*] \n
+Alexandros Nikou \n
+*PhD Thesis*, KTH Royal Institute of Technology, Stockholm, 2019
+
+
+\[T3\] [LicThesis.pdf *Cooperative Planning Control and Formation Control of Multi-Agent Systems*] \n
+Alexandros Nikou \n
+*Licentiate Thesis*, KTH Royal Institute of Technology, Stockholm, 2017
+
+\[T2\] [master_thesis.pdf *Analysis, Modeling and Nonlinear Control of a Novel Aerial Manipulator*] \n
+Alexandros Nikou \n 
+*MSc Thesis*, National Technical University of Athens, Athens, 2014
+
+\[T1\] [diploma_thesis.pdf *Numerical Research On the Sequential Quadratic Programming (SQP) \n
+Optimization Algorithm*] \n
+Alexandros Nikou \n
+*MEng Thesis*, National Technical University of Athens, Athens, 2012
+~~

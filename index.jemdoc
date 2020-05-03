@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+\n
+== Alexandros Nikou
+
+~~~
+{}{img_left}{alex.jpg}{alt text}{131}{160}{http://people.kth.se/~anikou/index.html}
+Experienced Researcher \n 
+Ericsson Research \n
+Torshamnsgatan 23 \n
+Stockholm, Sweden \n
+
+E-mail: alex \[dot\] shmmy \[at\] gmail \[dot\] com
+~~~
+
+== Short bio
+~~~
+Alexandros Nikou received the MEng degree in [http://www.ece.ntua.gr/ Electrical and Computer Engineering] and the MSc degree 
+in [http://dpms-as.mech.ntua.gr/ Automatic Control Systems and Robotics] both 
+from [http://www.ntua.gr/index_en.html National Technical University of Athens (NTUA)] in 2012 and 2014 respectively. In 2019, he received the 
+PhD in Electrical Engineering and Computer Science from [https://www.kth.se KTH Royal Institute of Technology]. He is currently researcher in [https://www.ericsson.com/en Ericsson HQ] in Stockholm, Sweden. 
+His research interests include AI, robotics and automation.
+~~~
+
+== News
+~~~
+- *(January 30, 2019)*, One paper was accepted for publication at American Control Conference (ACC) 2019, Philadelphia, USA.
+- *(September 9, 2018)*, One paper was accepted for publication at 2018 IEEE OES Autonomous Underwater Vehicle Symposium (AUVS), Porto, Portugal.
+- *(August 19-29 2018)*, I attended Mathematics in Society Workshop organized by Department of Mathematics, KTH. At this workshop, companies proposed problems and work together with participants on their solution. I had a chance to work on a problem of data driven modeling for control of industrial systems, proposed by ABB Corporate research.
+- *(June 11, 2018)*,  presented the paper "Decentralized Control of Uncertain Multi-Agent Systems with Connectivity Maintenance and Collision Avoidance" at ECC 2018, Limassol, Cyprus.
+- *(February 8, 2018)*, Two papers were accepted for publication at ECC 2018, Limassol, Cyprus.
+- *(January 21, 2018)*, I attended the EECI 2018 course "Nonlinear Model Predictive Control" given by [http://www.ist.uni-stuttgart.de/institut/mitarbeiter/Allgoewer/?__locale=en Prof. Frank Allgower] in University Paris Saclay.
+- *(December 16, 2017)*, I presented the papers "Decentralized Abstractions and Timed Constrained Planning of a General Class of Coupled Multi-Agent Systems", "Position and Orientation Based Formation Control of Multiple Rigid Bodies with Collision Avoidance and Connectivity Maintenance" at CDC 2017, Melbourne, Australia.
+- *(July 11, 2017)*, Two papers were accepted for publication at CDC 2017, Melbourne, Australia.
+- *(July 8, 2017)*, I presented the papers "Robust Distance-Based Formation Control of Multiple Rigid Bodies with Orientation Alignment", "Probabilistic Plan Synthesis for Coupled Multi-Agent Systems" at IFAC 2017, Toulouse, France.
+- *(June 2, 2017)*, I successfully defended my [LicThesis.pdf Licentiate Thesis] and awarded a Licentiate degree from KTH.
+- *(May 24, 2017)*, I presented the paper "Cooperative Planning Synthesis for Coupled Multi-Agent Systems Under Timed Temporal Specifications" at ACC 2017, Seattle, USA.
+- *(April 17, 2017)*, One paper was accepted for publication at MED 2017, Valetta, Malta.
+- *(March 20, 2016)*, I attended the EECI 2017 course "Hybrid Feedback Control Systems: Analysis and design" given by [https://hybrid.soe.ucsc.edu/ Prof. Ricardo Sanfelice] in University Paris Saclay.
+- *(February 27, 2017)*, Four papers were accepted for publication at IFAC World Congress 2017, Toulouse, France.
+- *(January 18, 2017)*, One paper was accepted for publication at American Control Conference (ACC) 2017, Seattle, USA.
+- *(July 8, 2016)*, I presented the paper "Cooperative Task Planning of Multi-Agent Systems Under Timed Temporal Specifications" at ACC 2016, Boston.
+- *(May 1, 2016)*, I attended the EECI 2016 course "Distributed control and computation" given by [http://seas.yale.edu/faculty-research/faculty-directory/a-stephen-morse Prof. Stephen Morse] in St. Petersburg Technical Unviersity.
+- *(January 30, 2016)*, One paper was accepted for publication at American Control Conference (ACC) 2016, Boston, USA.
+- *(December 6, 2016)*, I gave a presentation with title "Cooperative Task Planning of Multi-Agent Systems Under Timed Temporal Specifications" in the Dagstul Winter School of Computer Science.
+- *(August 6, 2015)*, Accepted in the Dagstul Winter School of Computer Science.
+- *(May 6-8, 2015)*, I attended Model Based Engineering, Workshop, Lund, Sweden.
+- *(February 15, 2015)*, I was offered a research position from KTH School of Electrical Engineering, Department of Automatic Control among 110 candidates.
+- *(January 30, 2015)*, One paper was accepted for publication at International Conference on Robotics and Automation (ICRA) 2015, Seattle, USA.
+~~~
