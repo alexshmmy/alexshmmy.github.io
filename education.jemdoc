@@ -1,26 +1,25 @@
-# jemdoc: menu{MENU}{education.html}
-\n
-== PhD Courses
+# jemdoc: menu{MENU}{education.html} \n
+== PhD in Electrical Engineering and Computer Science [course list]
 
 ~~
-- FEL3210, Multivariable Feedback Control Systems (8.0 hp)
-- FEL3330, Networked and Multi-Agent Control Systems (7.5 hp)
-- FEL3230, Hybrid Control Systems (7.5 hp)
-- FEM3220, Matrix Algebra (10.0 hp)
-- EL3300, Convex optimization with engineering applications (6.0 hp)
-- EL2700, Model Predictive Control (7.5 hp)
-- Probabilistic Verification and Synthesis (2.0 hp)
-- EECI, Distributed Control and Computation (3.0 hp)  
-- EECI, Nonlinear Model Predictive Control (3.0 hp)
-- EECI, Hybrid Feedback Control Systems: Analysis and Design (3.0 hp)
-- FLH3000, Basic Communication and Teaching (3.0 hp)
-- FAK3015, The Sustainable Scientist (2.0 hp)
-- FAK3014, Theory and Methodology of Science (3.0 hp)
-- FDS3103, Introduction to Scientific Writing (2.0 hp)
+- FEL3210, Multivariable Feedback Control Systems
+- FEL3330, Networked and Multi-Agent Control Systems
+- FEL3230, Hybrid Control Systems
+- FEM3220, Matrix Algebra
+- EL3300, Convex optimization with engineering applications
+- EL2700, Model Predictive Control
+- Probabilistic Verification and Synthesis
+- EECI, Distributed Control and Computation  
+- EECI, Nonlinear Model Predictive Control
+- EECI, Hybrid Feedback Control Systems: Analysis and Design
+- FLH3000, Basic Communication and Teaching
+- FAK3015, The Sustainable Scientist
+- FAK3014, Theory and Methodology of Science
+- FDS3103, Introduction to Scientific Writing
 
 ~~
 
-== MSc Courses				
+== MSc in Automation and Robotics [course list]				
 ~~
 - Digital Control Systems
 - Electirc Measurements
@@ -35,7 +34,7 @@
 - Sensors
 ~~
 
-== MEng Courses
+== MEng in Electrical and Computer Engineering [course list]
 ~~
 - Mathematical Analysis (Functions of one Variable)
 - Linear Algebra
