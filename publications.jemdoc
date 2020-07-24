@@ -4,37 +4,37 @@
 == Peer reviewed publications 
 
 ~~
-\[29\] *Decentralized Formation Control for Multiple Quadrotors with Guaranteed Collision avoidance* \n
+\[29\] *Deep Learning-based Nonlinear MPC for Robot Navigation with Guaranteed Performance* \n
+(under review)
+
+\[28\] *On the Time Constrained Reachability of Uncertain Nonlinear Systems* \n
+(under review)
+
+\[27\] *Decentralized Formation Control for Multiple Quadrotors with Guaranteed Collision avoidance* \n
 2019, (under preparation)
 
-\[28\] *Signal Temporal Logic under Prescribed Performance Nonlinear Model Predictive Control* \n
+\[26\] *Signal Temporal Logic under Prescribed Performance Nonlinear Model Predictive Control* \n
 Shahb Heshmati-alamdari, Alexandros Nikou, Lars Lindemann, Dimos V. Dimarogonas \n
 2019, (under preparation)
 
-\[27\] *Scalable Time-constrained Planning of Multi-robot Systems* \n
-Alexandros Nikou, Shahab Hehmati-alamdari, Dimos V. Dimarogonas \n
-*Autonomous Robots*, 2019, (under review)
-
-\[26\] *A Robust Nonlinear MPC Framework for Control of Underwater Vehicle Manipulator \n 
+\[25\] *A Robust Nonlinear MPC Framework for Control of Underwater Vehicle Manipulator \n 
 Systems under High-Level Tasks* \n
 Alexandros Nikou, Christos K. Verginis, Dimos V. Dimarogonas \n
-*IET Control Theory and Applications*, 2019, (under review)
+*IET Control Theory and Applications*, 2019, (conditionally accepted)
 
-\[25\] *Deep Learning-based Nonlinear MPC for Robot Navigation with Guaranteed Performance* \n
-(under review)
+\[24\] *[/files/AURO_2020.pdf Scalable Time-constrained Planning of Multi-robot Systems]* \n
+Alexandros Nikou, Shahab Hehmati-alamdari, Dimos V. Dimarogonas \n
+*Autonomous Robots*, 2020
 
-\[24\] *On the Time Constrained Reachability of Uncertain Nonlinear Systems* \n
-(under review)
-
-\[23\] *Robust Trajectory Tracking Control for Underctuated Autonomous Underwater Vehicles \n
-in Uncertain Environments* \n
+\[23\] *[/files/TASE_2020.pdf Robust Trajectory Tracking Control for Underctuated Autonomous Underwater Vehicles \n
+in Uncertain Environments]* \n
 Shahab Heshmati-alamdari, Alexandros Nikou and Dimos V. Dimarogonas \n
-IEEE Transactions on Automation Science and Engineering (*TASE*), 2020, (to appear)
+IEEE Transactions on Automation Science and Engineering (*TASE*), 2020
 
-\[22\] *Decentralized Formation Control for Multiple Quadrotors under \n Unidirectional Communication Constraints* \n
+\[22\] *[/files/IFAC_2020.pdf Decentralized Formation Control for Multiple Quadrotors under \n Unidirectional Communication Constraints]* \n
 Pedro Roque and Shahab Heshmati-alamdari, Alexandros Nikou, Dimos V. Dimarogonas \n
 21st World Congress of the International Federation of Automatic Control (*IFAC WC*), \n 
-Berlin, German, July 2020 (to appear)
+Berlin, German, July 2020
 
 \[21\] *[https://arxiv.org/pdf/1908.10175.pdf Robust Trajectory Tracking Control for Underactuated
 Autonomous Underwater Vehicles]* \n
